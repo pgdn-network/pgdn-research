@@ -23,7 +23,9 @@ You can view the beta publishes at this address on zkSync Era:
 - **PGDN Sentinel Discord Bot:**  
   - Query your validator score directly in Discord  
   - Trigger rescans instantly  
-  - Claim ownership to unlock enhanced analytics  
+  - Claim ownership to unlock enhanced analytics
+
+Visit: [pgdn.ai/pgdn-sentinel-discord](https://pgdn.ai/pgdn-sentinel-discord)
 
 ## 📂 Repository Structure
 ```
