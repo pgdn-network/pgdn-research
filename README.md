@@ -1,6 +1,7 @@
 # PGDN Validator Security Research
 
 PGDN publishes **monthly validator security benchmarks** to bring transparency and accountability to decentralized networks.  
+
 These benchmarks provide a consolidated security score for each validator, enabling operators to track improvements and delegators to make informed staking choices.
 
 ## 📊 Latest Report
