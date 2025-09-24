@@ -19,7 +19,7 @@ You can view the beta publishes at this address on zkSync Era:
 *Actually: publishing is currently broken as of 24/9/2025 - we're working to resolve this.*
 
 ## 🛠️ Tools for Validators
-- **Interactive Heatmap:** [pgdn.ai/heatmap](https://pgdn.ai/heatmap)  
+- **Interactive Heatmap:** [https://pgdn.ai/heatmaps/2025-09-sui]([https://pgdn.ai/heatmap](https://pgdn.ai/heatmaps/2025-09-sui))  
 - **PGDN Sentinel Discord Bot:**  
   - Query your validator score directly in Discord  
   - Trigger rescans instantly  
