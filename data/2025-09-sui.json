@@ -1,0 +1,716 @@
+[
+  {
+    "hostname": "sui-main.astrostakers.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 93.0
+  },
+  {
+    "hostname": "sui-main.everstake.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "validator.sui.mainnet.encapsulate.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "sui-m-v.bwarelabs.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "suimain01.chainflow.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "validator-sui-mainnet.blrd.inc",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "sui-validator-mainnet.omnistake.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 85.0
+  },
+  {
+    "hostname": "sui-mainnet-validator.sentio.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "sui.midl.dev",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "mainnet.validator.karrier.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "ika-validator.sui-mainnet.ika.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "sui.vestige.systems",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "mainnet.validator.haedal.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "p2p.0018df71-34f0-470d-b60c-77f8dbf7960d.sui.bison.run",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "validator.mainnet.sui.mirai.cloud",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 80.0
+  },
+  {
+    "hostname": "validator.mainnet.sui.zkvalidator.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "sui-mn-validator.ibriz.ai",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "validator.mainnet.alphafi.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "cypher-mainnet.juicystake.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "validator-mainnet.bucketprotocol.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "lus776.stwserver.net",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 75.0
+  },
+  {
+    "hostname": "juicy-sui-main.juicystake.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 72.0
+  },
+  {
+    "hostname": "sui.stakingwizard.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui.chainide.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet-figment.staking.production.figment.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet-val1.services.asymmetric.re",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui.artifact-staking.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet.chainode.tech",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui.bci.glxy.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet.stakewith.us",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-tdmtech-validator.ankr.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "val01-sui-m.pops.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "mainnet-sui-validator.onbuff.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-validator.bartestnet.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "val1.premainnet.sui.p2p.org",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui.hashkey.cloud",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet.interestlabs.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui.synergynodes.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "sui-mainnet.nodes.lgns.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 60.0
+  },
+  {
+    "hostname": "n1.sui.kelepool.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 57.0
+  },
+  {
+    "hostname": "sui-mainnet.brightlystake.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 57.0
+  },
+  {
+    "hostname": "sui.harbor.chorus.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 57.0
+  },
+  {
+    "hostname": "sui-mainnet.testnet-pride.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 57.0
+  },
+  {
+    "hostname": "validator.mainnet.scallop.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 54.0
+  },
+  {
+    "hostname": "suinode.cogentcrypto.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 50.0
+  },
+  {
+    "hostname": "sui-validator.peeranha.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 49.0
+  },
+  {
+    "hostname": "mainnet-rpc.sui.chainbase.online",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "fullnode.mainnet.sui.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "hybrid_node",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "validator.sui.quantnode.tech",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.stakingdefenseleague.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "v.sui.mainnet.republiccrypto-source.info",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "restake-sui-main-00-0.machine.restake.tech",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "validator-01.sui.dsrvlabs.net",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.stakin-nodes.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui.starduststaking.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui.blockpi.network",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.moonlet.network",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-validator.blockvision.org",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "api.blockeden.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.senseinode.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet-validator.scale3labs.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "mainnet.sui.kiliglab.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnnet.contributiondao.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-rpc.publicnode.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-v.bharvest.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.dzdaic.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.01no.de",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.h2o-nodes.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "mainnet.sui.gu3.jp",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "go.getblock.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui.blockscope.net",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet-endpoint.blockvision.org",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "hybrid_node",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-validator.stakely.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet-udp.prod-eks-eu-west-1.staked.cloud",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 45.0
+  },
+  {
+    "hostname": "sui-mainnet.surf.tech",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 43.0
+  },
+  {
+    "hostname": "sui.proofgp.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "sui-validator.nelrann.org",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "sui.xprv.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "endpoints.omniatech.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "sui.api.onfinality.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "public_rpc",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "sui.allnodes.me",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "sui-mainnet.ops.fish",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 40.0
+  },
+  {
+    "hostname": "bd-sui-main-validator-01.bdnodes.net",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 34.0
+  },
+  {
+    "hostname": "mainnet-validator.sui.chainbase.online",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 34.0
+  },
+  {
+    "hostname": "sui-mainnet.chorus.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 34.0
+  },
+  {
+    "hostname": "clayno-sui-mn.prostaking.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 24.0
+  },
+  {
+    "hostname": "sui-mainnet.nodeinfra.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "public_rpc",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui.swiss-staking.ch",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-val.citadel.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "rbr-1.mainet.sui.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.overclock.run",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui.nodeguardians.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.n1stake.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui.manystake.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "suimain1.syncnode.ro",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet-validator.ankr.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "mysten-2.mainnet.sui.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "mysten-1.mainnet.sui.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.imperator.co",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "mainnet.fengsui.wtf",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "validator.mainnet.sui.rpcpool.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "mainnet-validator.suiet.app",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "validator-0.sui.mainnet.kiln.fi",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-rpc-mainnet.nodersteam.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.nodeinfravalidators.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet-validator.blockeden.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "prod.sui.infstones.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "validator.sui.mainnet.aftermath.finance",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "suimain.hashedpotatoes.net",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "main.ahoyvalidator.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.thepassivetrust.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-validator.nodes.guru",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.laine.one",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "validator.sui.a41.io",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui.validator.neuler.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.forbole.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "mnv.sui.stakingcabin.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.shinlabs.xyz",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  },
+  {
+    "hostname": "sui-mainnet.staketab.com",
+    "observed_ts": "8/18/2025",
+    "node_cohort": "validator",
+    "latest_score": 15.0
+  }
+]
