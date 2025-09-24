@@ -16,6 +16,7 @@ You can view the beta publishes at this address on zkSync Era:
 [0xd21cA9a5C86c778651551F6B70F6779bd5e8036B](https://explorer.zksync.io/address/0xd21cA9a5C86c778651551F6B70F6779bd5e8036B)  
 
 *Note: This feature is in active development, so not all scores may yet be published.*
+*Actually: publishing is currently broken as of 24/9/2025 - we're working to resolve this.*
 
 ## 🛠️ Tools for Validators
 - **Interactive Heatmap:** [pgdn.ai/heatmap](https://pgdn.ai/heatmap)  
