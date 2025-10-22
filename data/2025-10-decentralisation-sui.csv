@@ -1,0 +1,123 @@
+hostname,asn,asn_name,cloud_provider,hosting_type,node_cohort,resolved_ip,country,city,region,aws_region,geo_cloud_provider
+validator.mainnet.scallop.io,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.219.170.199,US,Los Angeles,California,,
+fullnode.mainnet.sui.io,AS396982,Google LLC,GCP,Cloud,hybrid_node,34.36.204.241,US,Kansas City,Missouri,,GCP
+sui-main.astrostakers.com,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,45.32.177.0,GB,London,England,,
+sui.vestige.systems,AS31122,Digiweb ltd,Digiweb ltd,Dedicated,validator,80.93.18.164,IE,Navan,Leinster,,
+sui.allnodes.me,AS395201,Allnodes Inc,Allnodes Inc,Dedicated,validator,169.155.45.15,DE,Offenbach,Hesse,,
+bd-sui-main-validator-01.bdnodes.net,AS20326,TeraSwitch Networks Inc.,TeraSwitch Networks Inc.,Colocation,validator,208.91.107.169,JP,Togoshi,Tokyo,,
+sui.manystake.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.219.168.185,GB,London,England,,
+endpoints.omniatech.io,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,validator,104.26.13.231,US,San Francisco,California,,
+sui-mainnet.forbole.com,AS60610,Amito Ltd,Amito Ltd,Dedicated,validator,5.10.24.66,GB,London,England,,
+mainnet.validator.karrier.one,AS54191,Ice Wireless Inc.,Ice Wireless Inc.,Dedicated,validator,199.47.51.36,CA,Toronto,Ontario,,
+validator.sui.quantnode.tech,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.50.32.129,GB,London,England,,
+sui-mainnet-validator.sentio.xyz,AS18530,"Isomedia, Inc.","Isomedia, Inc.",Dedicated,validator,64.38.144.157,US,Bellevue,Washington,,
+sui.artifact-staking.io,AS393521,Scott Technology Center,Scott Technology Center,Dedicated,validator,206.125.33.6,US,Omaha,Nebraska,,
+sui-mainnet.stakingdefenseleague.com,AS16125,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,188.214.129.144,LT,Šiauliai,Siauliai,,
+sui-mainnet-validator.blockeden.xyz,AS396982,Google LLC,GCP,Cloud,validator,34.168.101.125,US,The Dalles,Oregon,,GCP
+validator-0.sui.mainnet.kiln.fi,AS16276,OVH SAS,OVH,Cloud,validator,145.239.161.35,FR,Lille,Hauts-de-France,,OVH
+mainnet.fengsui.wtf,AS20326,TeraSwitch Networks Inc.,TeraSwitch Networks Inc.,Colocation,validator,141.98.216.164,US,Newark,New Jersey,,
+validator-sui-mainnet.blrd.inc,AS15169,Google LLC,GCP,Cloud,validator,35.213.126.139,JP,Tokyo,Tokyo,,GCP
+mainnet.validator.haedal.xyz,AS14618,"Amazon.com, Inc.",AWS,Cloud,validator,44.212.98.74,US,Ashburn,Virginia,us-east-1,AWS
+v.sui.mainnet.republiccrypto-source.info,AS16276,OVH SAS,OVH,Cloud,validator,57.128.47.72,FR,Strasbourg,Grand Est,,OVH
+sui-mainnet.chainode.tech,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.50.32.114,GB,London,England,,
+sui-validator-mainnet.omnistake.com,AS16509,"Amazon.com, Inc.",AWS,Cloud,validator,18.188.89.184,US,Columbus,Ohio,us-east-2,AWS
+sui-mainnet.imperator.co,AS16276,OVH SAS,OVH,Cloud,validator,57.128.97.53,FR,Lille,Hauts-de-France,,OVH
+restake-sui-main-00-0.machine.restake.tech,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.219.171.17,DE,Frankfurt am Main,Hesse,,
+validator.sui.mainnet.encapsulate.xyz,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,139.84.143.106,IN,Bāshettihalli,Karnataka,,
+sui-mainnet.stakewith.us,AS16276,OVH SAS,OVH,Cloud,validator,79.137.101.209,FR,Lille,Hauts-de-France,,OVH
+suimain1.syncnode.ro,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,5.187.35.242,NL,Baarn,Utrecht,,
+validator.mainnet.sui.zkvalidator.com,AS214177,Validation Labs LTD,Validation Labs LTD,Dedicated,validator,91.148.167.20,BG,Sofia,Sofia-Capital,,
+sui-mainnet.n1stake.com,AS18450,"WebNX, Inc.","WebNX, Inc.",Dedicated,validator,173.231.17.194,US,Salt Lake City,Utah,,
+rbr-1.mainet.sui.io,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,78.141.245.48,GB,London,England,,
+validator-01.sui.dsrvlabs.net,AS16276,OVH SAS,OVH,Cloud,validator,141.95.171.152,FR,Lille,Hauts-de-France,,OVH
+sui-mn-validator.ibriz.ai,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,45.32.139.110,US,Santa Clara,California,,
+sui-val.citadel.one,AS16276,OVH SAS,OVH,Cloud,validator,141.94.137.186,FR,Calais,Hauts-de-France,,OVH
+sui-mainnet.chorus.one,AS60068,Datacamp Limited,Datacamp Limited,Dedicated,validator,79.127.215.161,FR,Paris,Île-de-France,,
+sui-validator.bartestnet.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,45.250.253.76,US,New York City,New York,,
+sui.validator.neuler.xyz,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.219.171.15,DE,Frankfurt am Main,Hesse,,
+sui.harbor.chorus.one,AS28753,Leaseweb Deutschland GmbH,Leaseweb Deutschland GmbH,Dedicated,validator,173.234.72.194,GB,London,England,,
+val1.premainnet.sui.p2p.org,AS7979,"Servers.com, Inc.","Servers.com, Inc.",Colocation,validator,188.42.140.228,NL,Lelystad,Flevoland,,
+sui-mainnet.stakin-nodes.com,AS16125,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,93.115.25.75,LT,Šiauliai,Siauliai,,
+main.ahoyvalidator.xyz,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.50.32.109,GB,London,England,,
+suimain.hashedpotatoes.net,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,69.67.149.35,US,Los Angeles,California,,
+sui.starduststaking.com,AS29405,VNET a.s.,VNET a.s.,Dedicated,validator,46.229.233.174,SK,Bratislava,Bratislava Region,,
+sui.blockpi.network,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,validator,104.18.22.5,US,San Francisco,California,,
+lus776.stwserver.net,AS34989,ServeTheWorld AS,ServeTheWorld AS,Dedicated,validator,83.143.83.226,NO,Oslo,Oslo,,
+sui-mainnet.shinlabs.xyz,AS132203,"Tencent Building, Kejizhongyi Avenue",Tencent,Cloud,validator,162.62.234.61,DE,Frankfurt am Main,Hesse,,Tencent
+sui.stakingwizard.com,AS16125,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,5.199.170.77,LT,Šiauliai,Siauliai,,
+mnv.sui.stakingcabin.com,AS16276,OVH SAS,OVH,Cloud,validator,141.95.65.179,DE,Frankfurt am Main,Hesse,,OVH
+sui-rpc-mainnet.nodersteam.com,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,149.28.137.164,SG,Singapore,Singapore,,
+suinode.cogentcrypto.io,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,45.250.254.99,US,Ashburn,Virginia,,
+mainnet-validator.suiet.app,AS16276,OVH SAS,OVH,Cloud,validator,15.235.214.130,SG,Singapore,Singapore,,OVH
+sui.xprv.io,AS16276,OVH SAS,OVH,Cloud,validator,54.38.136.66,PL,Warsaw,Mazovia,,OVH
+sui.chainide.com,AS45102,"Alibaba (US) Technology Co., Ltd.",Alibaba,Cloud,validator,47.236.75.72,SG,Singapore,Singapore,,Alibaba
+mysten-1.mainnet.sui.io,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,45.63.91.154,US,Santa Clara,California,,
+sui-mainnet-figment.staking.production.figment.io,AS15169,Google LLC,GCP,Cloud,validator,35.215.30.249,CA,Montréal,Quebec,,GCP
+sui-mainnet-val1.services.asymmetric.re,AS16276,OVH SAS,OVH,Cloud,validator,15.204.107.5,US,Portland,Oregon,,OVH
+sui-mainnet.moonlet.network,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.219.171.14,DE,Frankfurt am Main,Hesse,,
+mainnet-validator.sui.chainbase.online,AS216444,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,5.199.164.101,SG,Singapore,Singapore,,
+sui-mainnet-validator.cosmostation.io,AS7979,"Servers.com, Inc.","Servers.com, Inc.",Colocation,validator,172.255.251.44,LU,Luxembourg,Luxembourg,,
+sui-validator.peeranha.io,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,91.242.215.239,AU,Sydney,New South Wales,,
+ika-validator.sui-mainnet.ika.xyz,AS396982,Google LLC,GCP,Cloud,validator,34.140.184.162,BE,Brussels,Brussels Capital,,GCP
+validator-mainnet.bucketprotocol.io,AS396982,Google LLC,GCP,Cloud,validator,34.41.77.252,US,Council Bluffs,Iowa,,GCP
+sui-validator.blockvision.org,AS16276,OVH SAS,OVH,Cloud,validator,15.235.226.91,SG,Singapore,Singapore,,OVH
+api.blockeden.xyz,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,validator,104.21.32.88,US,San Francisco,California,,
+validator.mainnet.sui.rpcpool.com,AS20326,TeraSwitch Networks Inc.,TeraSwitch Networks Inc.,Colocation,validator,202.8.8.8,NL,Amsterdam,North Holland,,
+sui.wizardfiction.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,45.250.253.97,US,New York City,New York,,
+suimain01.chainflow.io,AS16125,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,185.8.104.18,LT,Šiauliai,Siauliai,,
+sui-mainnet.senseinode.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,69.67.148.48,MX,Santiago de Querétaro,Querétaro,,
+validator.mainnet.sui.mirai.cloud,AS18450,"WebNX, Inc.","WebNX, Inc.",Dedicated,validator,216.158.73.194,US,Los Angeles,California,,
+sui-mainnet-validator.scale3labs.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,45.250.254.151,US,Ashburn,Virginia,,
+sui-mainnet.testnet-pride.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,45.250.253.74,US,New York City,New York,,
+sui-mainnet.nodes.lgns.xyz,AS16276,OVH SAS,OVH,Cloud,validator,51.38.26.34,FR,Strasbourg,Grand Est,,OVH
+sui.proofgp.com,AS33425,"CoreWeave, Inc","CoreWeave, Inc",Dedicated,validator,207.53.234.207,US,Chicago,Illinois,,
+sui-mainnet.staketab.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.50.32.107,GB,London,England,,
+sui-mainnet.nodeinfravalidators.com,AS20326,TeraSwitch Networks Inc.,TeraSwitch Networks Inc.,Colocation,validator,64.130.52.116,NL,Amsterdam,North Holland,,
+mainnet.sui.kiliglab.io,AS38676,flexnetworks,flexnetworks,Dedicated,validator,115.165.180.246,KR,Seoul,Seoul,,
+sui-mainnnet.contributiondao.com,AS16276,OVH SAS,OVH,Cloud,validator,141.95.99.142,DE,Frankfurt am Main,Hesse,,OVH
+sui-rpc.publicnode.com,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,validator,172.66.150.162,US,San Francisco,California,,
+sui-v.bharvest.io,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,198.13.34.226,JP,Ōi,Saitama,,
+sui-mainnet.interestlabs.io,AS58010,uvensys GmbH,uvensys GmbH,Dedicated,validator,193.243.164.205,DE,Frankfurt am Main,Hesse,,
+p2p.0018df71-34f0-470d-b60c-77f8dbf7960d.sui.bison.run,AS16509,"Amazon.com, Inc.",AWS,Cloud,validator,35.75.9.216,JP,Tokyo,Tokyo,ap-northeast-1,AWS
+sui-mainnet.thepassivetrust.com,AS204770,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,84.32.32.80,US,Chicago,Illinois,,
+sui-mainnet.dzdaic.com,AS44133,IPAX GmbH,IPAX GmbH,Dedicated,validator,37.252.184.226,AT,Vienna,Vienna,,
+sui-mainnet.laine.one,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.50.32.184,GB,London,England,,
+1rpc.io,AS8075,Microsoft Corporation,Azure,Cloud,validator,52.137.106.240,US,Moses Lake,Washington,,Azure
+sui-mainnet.surf.tech,AS16276,OVH SAS,OVH,Cloud,validator,91.134.34.83,FR,Lille,Hauts-de-France,,OVH
+sui-mainnet.01no.de,AS41536,01NODE FUNDING SRL,01NODE FUNDING SRL,Dedicated,validator,195.14.6.175,RO,Bucharest,București,,
+sui.midl.dev,AS12876,SCALEWAY S.A.S.,SCALEWAY S.A.S.,Dedicated,validator,62.210.140.115,FR,Paris,Île-de-France,,
+sui-mainnet.h2o-nodes.com,AS58010,uvensys GmbH,uvensys GmbH,Dedicated,validator,193.243.164.204,DE,Frankfurt am Main,Hesse,,
+validator.mainnet.alphafi.xyz,AS262287,Latitude.sh LTDA,Latitude.sh LTDA,Colocation,validator,186.233.187.109,US,Chicago,Illinois,,
+sui-mainnet.nodeinfra.com,AS16276,OVH SAS,OVH,Cloud,public_rpc,57.128.98.9,FR,Lille,Hauts-de-France,,OVH
+sui.swiss-staking.ch,AS9044,BSE Software GmbH,BSE Software GmbH,Dedicated,validator,82.220.39.51,CH,Worb,Bern,,
+clayno-sui-mn.prostaking.com,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,103.106.59.195,US,Ashburn,Virginia,,
+mainnet-sui-validator.onbuff.com,AS136907,HUAWEI CLOUDS,Huawei,Cloud,validator,119.8.96.173,HK,Hong Kong,Hong Kong,,Huawei
+sui-mainnet.ops.fish,AS54825,"Packet Host, Inc.","Packet Host, Inc.",Dedicated,validator,67.213.112.33,US,New York City,New York,,
+mainnet.sui.gu3.jp,AS16509,"Amazon.com, Inc.",AWS,Cloud,validator,13.230.215.202,JP,Tokyo,Tokyo,ap-northeast-1,AWS
+n1.sui.kelepool.io,AS45102,"Alibaba (US) Technology Co., Ltd.",Alibaba,Cloud,validator,47.251.23.207,US,Los Angeles,California,,Alibaba
+sui-mainnet.overclock.run,AS60068,Datacamp Limited,Datacamp Limited,Dedicated,validator,84.17.53.103,CH,Zürich,Zurich,,
+sui.nodeguardians.io,AS205544,Leaseweb UK Limited,Leaseweb UK Limited,Dedicated,validator,173.208.48.68,GB,London,England,,
+sui.api.onfinality.io,AS16276,OVH SAS,OVH,Cloud,public_rpc,51.254.59.59,FR,Gravelines,Hauts-de-France,,OVH
+val01-sui-m.pops.one,AS16125,UAB Cherry Servers,UAB Cherry Servers,Colocation,validator,185.8.104.19,LT,Šiauliai,Siauliai,,
+go.getblock.io,AS44051,Fornex Hosting S.L.,Fornex Hosting S.L.,Colocation,validator,185.44.207.223,DE,Frankfurt am Main,Hesse,,
+sui-tdmtech-validator.ankr.com,AS32475,Internap Holding LLC,Internap Holding LLC,Dedicated,validator,63.251.232.230,NL,Amsterdam,North Holland,,
+sui-mainnet-validator.ankr.com,AS32475,Internap Holding LLC,Internap Holding LLC,Dedicated,validator,103.50.32.56,GB,London,England,,
+sui.blockscope.net,unknown,,unknown,Dedicated,validator,15.235.82.231,CA,Beauharnois,Quebec,,OVH
+sui.bci.glxy.com,AS16509,"Amazon.com, Inc.",AWS,Cloud,validator,52.215.11.218,IE,Dublin,Leinster,eu-west-1,AWS
+sui-main.everstake.one,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,185.209.178.169,US,New York City,New York,,
+juicy-sui-main.juicystake.io,AS20355,REV,REV,Dedicated,validator,69.2.39.167,US,Baton Rouge,Louisiana,,
+validator.sui.a41.io,AS16276,OVH SAS,OVH,Cloud,validator,164.132.247.228,FR,Lille,Hauts-de-France,,OVH
+sui-mainnet-endpoint.blockvision.org,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,hybrid_node,104.26.5.104,US,San Francisco,California,,
+sui-validator.stakely.io,AS16276,OVH SAS,OVH,Cloud,validator,57.129.148.39,GB,Bexley,England,,OVH
+cypher-mainnet.juicystake.io,AS20355,REV,REV,Dedicated,validator,69.2.39.172,US,Baton Rouge,Louisiana,,
+prod.sui.infstones.io,AS262287,Latitude.sh LTDA,Latitude.sh LTDA,Colocation,validator,69.67.150.119,US,Miami,Florida,,
+validator.sui.mainnet.aftermath.finance,AS16276,OVH SAS,OVH,Cloud,validator,141.95.98.112,DE,Frankfurt am Main,Hesse,,OVH
+sui-validator.nodes.guru,AS16276,OVH SAS,OVH,Cloud,validator,141.95.99.90,DE,Frankfurt am Main,Hesse,,OVH
+sui-mainnet-udp.prod-eks-eu-west-1.staked.cloud,AS16509,"Amazon.com, Inc.",AWS,Cloud,validator,52.49.93.78,IE,Dublin,Leinster,eu-west-1,AWS
+sui.synergynodes.com,AS48314,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG,Dedicated,validator,103.241.50.19,DE,Frankfurt am Main,Hesse,,
+sui.hashkey.cloud,AS16276,OVH SAS,OVH,Cloud,validator,37.187.82.78,FR,Lille,Hauts-de-France,,OVH
+sui-mainnet.brightlystake.com,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,139.84.149.143,IN,Bāshettihalli,Karnataka,,
+mysten-2.mainnet.sui.io,AS20473,"The Constant Company, LLC","The Constant Company, LLC",Dedicated,validator,136.244.64.220,GB,London,England,,
+sui-m-v.bwarelabs.com,AS16276,OVH SAS,OVH,Cloud,validator,141.95.34.55,DE,Frankfurt am Main,Hesse,,OVH
+sui-validator.nelrann.org,AS396356,Latitude.sh,Latitude.sh,Colocation,validator,185.209.178.171,US,New York City,New York,,
+mainnet-rpc.sui.chainbase.online,AS13335,"Cloudflare, Inc.","Cloudflare, Inc.",Dedicated,validator,104.21.44.193,US,San Francisco,California,,
