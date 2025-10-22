@@ -4,6 +4,8 @@
 
 Analysis of 122 Sui validators reveals moderate centralization concerns with significant concentration in specific hosting providers and geographic regions.
 
+You can see the **Dataset here:** [`2025-10-decentralisation-sui.csv`](../data/2025-10-decentralisation-sui.csv).
+
 ## Key Findings
 
 ### Cloud Provider Distribution
@@ -68,18 +70,3 @@ While only 6 validators run on AWS (4.9%), the distribution shows:
 
 ### Critical Note
 Within AWS, validators could still be in the same **availability zones** within these regions, which would represent a hidden centralization risk not visible in this analysis.
-
-## Recommendations for Article
-
-1. **Provider Concentration**: Highlight that 2 providers (Latitude.sh + OVH) control 36% of validators
-
-2. **Geographic Risk**: Emphasize US (31%) and Western Europe (41%) concentration
-
-3. **Cloud vs Bare Metal**: Note that 68% use dedicated/colocation (more decentralized)
-
-4. **Hidden Risks**: AWS availability zones remain unknown - validators in same AZ could fail together
-
-5. **Positive Aspects**: 
-   - HHI score shows "unconcentrated" market
-   - Major clouds (AWS/GCP/Azure) only represent 10.7%
-   - AWS validators well-distributed across regions
